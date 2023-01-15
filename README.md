@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Halltec](https://github.com/Halltec)  
   
 
-- 🌱 I’m currently learning Laravel,   
+- 🌱 I’m currently learning Laravel, TailwindCSS, AlpineJS, LiveWire  
   
 
 - ❓ Ask me about anything related to PHP, SQL, NODEJS  
@@ -88,16 +88,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fredinho777&&style=flat-square" align="center" />
 </div>  
@@ -109,4 +99,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
