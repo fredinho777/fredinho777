@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" align="center" style="width: 100%" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 100%" />
 </div>  
   
 
@@ -86,6 +86,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fredinho777&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+
+  
+
 <br/>  
 
 <div align="center">
@@ -99,3 +102,4 @@
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
