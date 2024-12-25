@@ -9,10 +9,7 @@
 - 🔭 I’m currently working on [Halltec](https://github.com/Halltec)  
   
 
-- 🌱 I’m currently learning Laravel, TailwindCSS, AlpineJS, LiveWire  
-  
-
-- ❓ Ask me about anything related to PHP, SQL, NODEJS  
+- ❓ Ask me about Laravel, TailwindCSS, AlpineJS, LiveWire  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
